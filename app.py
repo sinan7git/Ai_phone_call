@@ -9,7 +9,7 @@ def make_api_call(phone_number):
         "task": "Your company name 'Servtech' act your hiring a software engineer position so act like a HR in That company . instructions: candidate should be be educated and experienced with django python"
     }
     headers = {
-        "authorization": "sk-xeb9xarsovo6ftnbl0boioqvxfa71289pi91q8vuxtu6byaotvp0k7zm7a5ttu0x69",
+        "authorization": "",
         "Content-Type": "application/json"
     }
 
